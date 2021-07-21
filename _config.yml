@@ -3,10 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://fongandrew.github.io
+title:            afriqueunique.org
+tagline:          'afriqueunique.org Stories and archives'
+description:      'The <a href="http://afriqueunique.org" target="_blank">Stories and archives, refreshed.'
+url:              https://afriqueunique.org
 # baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -16,7 +16,7 @@ url:              https://fongandrew.github.io
 
 author:
   name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  url:            https://twitter.com/#
 
 paginate:         5
 # paginate_path:    '/page:num'
