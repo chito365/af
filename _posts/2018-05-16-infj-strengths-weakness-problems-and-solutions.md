@@ -124,7 +124,6 @@ With any gift of strength, there is an associated weakness. Without &#8220;bad&#
 &nbsp;
 
 INFJ’s are rare and intelligent people with many special gifts. This should be kept in mind as you read some of the more negative material about INFJ weaknesses. Remember that these weaknesses are natural. We offer this information to enact positive change, rather than as blatant criticism. We want you to grow into your full potential, and be [the happiest and most successful person that you can become](https://www.afriqueunique.org/living-happily-in-our-world-as-an-infj/).
-
 &nbsp;
 
 Most of the weaker characteristics that are found in INFJ’s are due to their dominant function (Introverted iNtuition) overtaking their personality to the point that the other forces in their personality exist merely to serve the purposes of Introverted iNtuition. In such cases, an INFJ may show some or all of the following weaknesses in varying degrees:
